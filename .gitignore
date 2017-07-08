@@ -49,10 +49,3 @@ bin/
 .DS_Store
 BomWeatherApplication/IDV60920.xml
 
-BomWeatherApplication/resources/RaspberryPi3.cert.pem
-
-BomWeatherApplication/resources/RaspberryPi3.private.key
-
-BomWeatherApplication/resources/RaspberryPi3.public.key
-
-BomWeatherApplication/resources/root-CA.crt
